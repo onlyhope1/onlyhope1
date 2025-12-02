@@ -45,7 +45,7 @@ Ali Khan ~ Android Dev | Fullstack Dev | AI/ML Engineer
 ##  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daemon001/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://www.linkedin.com/in/alikaujla/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="alikhan9931786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://buymeacoffee.com/daemon001"><img src="https://img.shields.io/badge/-Buy_me_a_coffee-FECC00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
 </p>
