@@ -22,12 +22,12 @@ Ali Khan ~ Android Dev | Fullstack Dev | AI/ML Engineer
 </p>
 <p align="center">
 <!-- Earned Badges -->
-<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/IBM_SE_Essentials.png" width="100px"></a>
-<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/IBM Python for Data Science and AI.png" width="100px"></a>
-<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/SAP_AC.png" width="100px"></a>
-<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/SAP_DataAnalyst.png" width="100px"></a>
-<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/OCI_DS.png" width="100px"></a>
-<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/OCI-Dev.png" width="100px"></a>
+<img src="https://github.com/onlyhope1/onlyhope1/blob/main/Badges/IBM_SE_Essentials.png" width="100px"></a>
+<img src="https://github.com/onlyhope1/onlyhope1/blob/main/Badges/IBM Python for Data Science and AI.png" width="100px"></a>
+<img src="https://github.com/onlyhope1/onlyhope1/blob/main/Badges/SAP_AC.png" width="100px"></a>
+<img src="https://github.com/onlyhope1/onlyhope1/blob/main/Badges/SAP_DataAnalyst.png" width="100px"></a>
+<img src="https://github.com/onlyhope1/onlyhope1/blob/main/Badges/OCI_DS.png" width="100px"></a>
+<img src="https://github.com/onlyhope1/onlyhope1/blob/main/Badges/OCI-Dev.png" width="100px"></a>
 </p>
 
 <p align="center">
